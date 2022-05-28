@@ -1,0 +1,58 @@
+{		
+person:{		
+	id:1,	
+	name:"Carrie Bradshaw",	
+	address:{	
+		city:"New York",
+		street:"Broadway",
+		building:199,
+		apartment:1,
+	contact:{	
+		phone:"+13331112211",
+		mail:"c.bradshaw@gmail.com",
+person:{		
+	id:2,	
+	name:"Charlotte York",	
+	address:{	
+		city:"New York",
+		street:"Central Park West",
+		building:275,
+		apartment:1,
+	contact:{	
+		phone:"+13331113311",
+		mail:"c.york@gmail.com",
+person:{		
+	id:3,	
+	name:"Samanta Jones",	
+	address:{	
+		city:"New York",
+		street:"West 13th Street",
+		building:403,
+		apartment:1,
+	contact:{	
+		phone:"+13331110011",
+		mail:"s.jones@gmail.com",
+person:{		
+	id:4,	
+	name:"Miranda Hobbes",	
+	address:{	
+		city:"New York",
+		street:"Amsterdam Ave",
+		building:378,
+		apartment:1,
+	contact:{	
+		phone:"+13332221122",
+		mail:"m.hobbes@gmail.com"
+		}
+	}	
+}		
+	}	
+}		
+}		
+	}	
+}		
+}		
+	}	
+}		
+}		
+}		
