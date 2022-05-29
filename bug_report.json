@@ -1,0 +1,12 @@
+{"Bug report elements":[
+    {"Reporter":"Name",
+    "Assignee":"Name",
+    "Severity":["Blocker","Critical","Major","Minor","Trivial"],
+    "Priority":["High","Medium","Low"],
+    "Environment":["Brovser","OC version"],
+    "Description":"what_where_how",
+    "Steps_to_reproduce":["1","2","..."],
+    "Actual result":"Real",
+    "Expected result":"According to the documentation"}
+]
+}
